@@ -1,0 +1,17 @@
+body {
+	padding:0;
+	margin:0;
+}
+
+#main {
+	text-align:center;
+}
+
+#temptitle {
+	font-size:80px;
+	margin-top:220px;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 1024px) {
+
+}
