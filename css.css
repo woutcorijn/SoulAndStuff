@@ -25,6 +25,41 @@ body {
 	font-size:18px;
 }
 
+ul {
+	list-style-type: none;
+	margin-left:-30px;
+}
+
+li {
+	display: inline-block;
+	margin:10px;
+}
+
+.logo {
+	width:45px;
+	height:auto;
+}
+
+#fb {
+	
+}
+
+#insta {
+	
+}
+
+#twitter {
+	
+}
+
+
+#insta:hover {
+	
+}
+
+#twitter:hover {
+	
+}
 
 #header {
 	margin-top:30px;
@@ -38,5 +73,9 @@ body {
 #header {
 	margin-top:0px;
 	width:100%;
+}
+.logo {
+	width:40px;
+	height:auto;
 }
 }
