@@ -1,6 +1,7 @@
 # SoulAndStuff
 
 The site of the band "Soul&stuff".
+
 https://www.soulandstuff.cf/
 
 Soul&stuff on
