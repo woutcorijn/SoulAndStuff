@@ -1,6 +1,6 @@
 body {
 	margin:0;
-	background-color:#121313;
+	background-color:#ffffff;
 }
 
 #main {
@@ -13,12 +13,12 @@ body {
 
 #text {
 	font-size:15px;
-	color:#FDE1B7;
+	color:#000000;
 	margin-top:40px;
 }
 
 .link {
-	color:#FDE1B7;
+	color:#000000;
 }
 
 #mail {
